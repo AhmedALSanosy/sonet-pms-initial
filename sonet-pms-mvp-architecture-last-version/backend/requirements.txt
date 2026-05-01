@@ -1,0 +1,12 @@
+# Sonet PMS Backend Dependencies
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.0
+sqlalchemy>=2.0.0
+aiosqlite>=0.19.0
+python-multipart>=0.0.6
+
+# Voice Engine (Phase 2)
+# openai-whisper>=20231117
+# torch>=2.1.0
+# TTS>=0.22.0
